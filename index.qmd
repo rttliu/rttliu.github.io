@@ -10,9 +10,9 @@ page-layout: full
 Interests: High dimensional bayesian inference, Functional/longitudinal data analysis, Model selection, Applications to public policy and psychology.
 
 ## Current Work
-- Functional data analysis of typhoon intensity & tracks
-- Bayesian hierarchical modeling
-- Computational statistics
+- Functional data analysis of typhoon intensity & tracks in western north pacific
+- Analysis and imputation of missing data under AR(1) setting
+- Prior selection for bayesian regression
 
 ## Quick Links
 - [Coursework](coursework.qmd)
