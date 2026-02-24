@@ -7,7 +7,7 @@ page-layout: full
 
 **M.S. student in Statistics, UC Davis**
 
-Interests: Bayesian inference, functional data analysis, causal inference.
+Interests: High dimensional bayesian inference, Functional/longitudinal data analysis, Model selection, Applications to public policy and psychology.
 
 ## Current Work
 - Functional data analysis of typhoon intensity & tracks
