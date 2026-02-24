@@ -1,6 +1,5 @@
 ---
 title: ""
-page-layout: full
 ---
 
 # Ruitian Liu
