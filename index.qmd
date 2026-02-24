@@ -5,9 +5,10 @@ page-layout: full
 
 # Ruitian Liu
 
-**M.S. student in Statistics, UC Davis**
+I am a graduate student in the Department of Statistics at the University of California, Davis, where I began my M.S. in Statistics in 2025. Prior to that, I earned my B.S. in Statistics from the North China Institute of Science and Technology in from 2021-2025. 
 
-Interests: High dimensional bayesian inference, Functional/longitudinal data analysis, Model selection, Applications to public policy and psychology.
+My academic interests includes high dimensional bayesian inference, functional/longitudinal data analysis, model selection, applications to public policy and psychology.
+
 
 ## Current Work
 - Functional data analysis of typhoon intensity & tracks in western north pacific
@@ -22,3 +23,5 @@ Interests: High dimensional bayesian inference, Functional/longitudinal data ana
 
 ## Contact
 - GitHub: https://github.com/rttliu
+- Phone: +1-(628)-306-5325 or 
+- Email: rttliu@ucdavis.edu / yktyxtt@outlook.com
