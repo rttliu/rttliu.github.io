@@ -6,7 +6,7 @@ format:
     toc: false
 ---
 
-Below is a selection of undergraduate coursework in statistics, mathematics, and quantitative methods. Grade annotations: (***) ≥95%, (**) 90–94%, (*) 85–89%.
+Below is a selection of undergraduate coursework in statistics, mathematics, and quantitative methods. Grade annotations: (`***`) ≥95%, (`**`) 90–94%, (`*`) 85–89%.
 
 ---
 
