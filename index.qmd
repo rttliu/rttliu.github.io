@@ -4,10 +4,13 @@ title: ""
 
 # Ruitian Liu
 
-I am a graduate student in the Department of Statistics at the University of California, Davis, where I began my M.S. in Statistics in 2025. Prior to that, I earned my B.S. in Statistics from the North China Institute of Science and Technology in from 2021-2025. 
+I am a graduate student in the Department of Statistics at the University of California, Davis, where I began my M.S. in Statistics in 2025. Prior to that, I earned my B.S. in Statistics from North China Institute of Science and Technology between 2021-2025. 
 
-My academic interests includes high dimensional bayesian inference, functional/longitudinal data analysis, model selection, applications to public policy and psychology.
-
+## Academic interests 
+- Model selection (bias-variance trade-off, misspecified model, sampling)
+- Functional/longitudinal data analysis (FPCA, functional regression, design of experiments)
+- Bayesian inference (high dimensional problem, prior selection)
+- Applications to scientific and real world problem (natural disaster, social science)
 
 ## Current Work
 - Functional data analysis of typhoon intensity & tracks in western north pacific
@@ -15,7 +18,8 @@ My academic interests includes high dimensional bayesian inference, functional/l
 - Prior selection for bayesian regression
 
 ## Quick Links
-- [Coursework](coursework.qmd)
+- [Completed courses in undergraduates](undegraduate.qmd)
+- [Completed or in progress courses in UCDavis](master.qmd)
 - [Projects](projects.qmd)
 - [Writing](posts.qmd)
 - [CV](files/cv.pdf)
