@@ -18,7 +18,7 @@ I am a graduate student in the Department of Statistics at the University of Cal
 - Prior selection for bayesian regression
 
 ## Quick Links
-- [Completed courses in undergraduates](undegraduate.qmd)
+- [Completed courses in undergraduates](undergraduate.qmd)
 - [Completed or in progress courses in UCDavis](master.qmd)
 - [Projects](projects.qmd)
 - [Writing](posts.qmd)
