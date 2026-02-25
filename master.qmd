@@ -71,14 +71,21 @@ format:
 - **STA 231B — Mathematical Statistics II**  (Ph.D level) <br>
   Testing/ Confidence Intervals (including FDR) Quadratic Forms (+ their distribution under normal) Confidence regions. Linear model (basic theory) LS-estimation, ANOVA, F-test Linear mixed model.
 
+- **STA 260 — Statistical Practice and Data Analysis**  (Ph.D level) <br>
+   Principles and practice of interdisciplinary collaboration in statistics, statistical consulting, ethical aspects, and basics of data analysis and study design. Emphasis on practical consulting and collaboration of statisticians with clients and scientists under instructor supervision.
+
+- **STA 290 — Seminar in Statistics** <br>
+
 ---
 
 ### Spring 2027 (Planned)
 
-- **STA 135 — Multivariate Data Analysis** (Undergraduate level) <br>
+- **STA 135 — Multivariate Data Analysis** (Required, Undergraduate level) <br>
   Multivariate normal distribution; Mahalanobis distance; sampling distributions of the mean vector and covariance matrix; Hotellings T2; simultaneous inference; one-way MANOVA; discriminant analysis; principal components; canonical correlation; factor analysis.
 
 - **STA 231C — Mathematical Statistics III**  (Ph.D level) <br>
   Smoothing (kernel, local polynomial, splines), Statistical functionals (including basic bootstrap and jackknife), Optimization techniques (incl. EM-algorithm)
 
+- **STA 232C — Applied Statistics III**  (Ph.D level) <br>
+  Multivariate analysis: multivariate distributions, multivariate linear models, data analytic methods including principal component, factor, discriminant, canonical correlation and cluster analysis.
 ---
