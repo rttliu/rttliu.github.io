@@ -88,4 +88,5 @@ format:
 
 - **STA 232C — Applied Statistics III**  (Ph.D level) <br>
   Multivariate analysis: multivariate distributions, multivariate linear models, data analytic methods including principal component, factor, discriminant, canonical correlation and cluster analysis.
+
 ---
