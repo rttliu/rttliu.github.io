@@ -1,6 +1,6 @@
 # Ruitian Liu – Academic Website
 
-Please see details accordinhg to my academic website: https://rttliu.github.io/
+Please see details according to my academic website: https://rttliu.github.io/
 
 The website and the repository contains the source code for my personal academic information, built with Quarto and hosted via GitHub Pages. The site documents my coursework, research projects, technical writing, and CV as a Statistics M.S. student at UC Davis. 
 
