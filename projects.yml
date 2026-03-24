@@ -1,13 +1,5 @@
-
-    - path: https://www.nsf.gov/ 
-      image: https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png
-      title: "Exploring "
-      author: Academic Website
-      subtitle: "Funder"
-      description: "The goal of this project is to investigate ."
-      started: "2024"
-      ended: "2025"
-      funding: "$0"
-#      date: "2022-10-26"
-#      categories: [] 
-
+- title: "Hierarchical Bayesian Modeling under Small Samples"
+  description: "Implemented Gibbs sampling for hierarchical priors with sensitivity analysis over hyperparameters."
+  github: "https://github.com/rttliu/STA145-BayesianProject"
+  link: "https://rttliu.github.io/finalproj145.pdf"
+  date: "2026-03"
