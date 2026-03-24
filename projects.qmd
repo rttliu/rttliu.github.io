@@ -1,1 +1,8 @@
+## Projects
 
+### Hierarchical Bayesian Modeling under Small Samples
+
+Implemented Gibbs sampling for hierarchical priors with sensitivity analysis over hyperparameters.
+
+- [PDF](https://rttliu.github.io/finalproj145.pdf)
+- [GitHub](https://github.com/rttliu/STA145-BayesianProject)
