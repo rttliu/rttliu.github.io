@@ -5,7 +5,7 @@ title: "Ruitian Liu"
 I am a graduate student in the Department of Statistics at the University of California, Davis, where I began my M.S. in Statistics in 2025. Prior to that, I earned my B.S. in Statistics from North China Institute of Science and Technology between 2021-2025. 
 
 ## Academic interests 
-- Model selection (bias-variance trade-off, misspecified model, sampling)
+- Model selection (sensitivity analysis, misspecified model, sampling)
 - Functional/longitudinal data analysis (FPCA, functional regression, design of experiments)
 - Bayesian inference (high dimensional problem, prior selection)
 - Applications to scientific and real world problem (natural disaster, social science)
