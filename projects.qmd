@@ -1,8 +1,44 @@
 ## Projects
 
-### Hierarchical Bayesian Modeling under Small Samples
+### Functional Representation and Regression of Typhoon Evolution (W. North Pacific)
 
-Implemented Gibbs sampling for hierarchical priors with sensitivity analysis over hyperparameters.
+What if every typhoon's life — birth, peak, collapse — could be written as a single curve, and the whole zoo of 1,101 storms compressed into just **three numbers each**? We use functional data analysis on NOAA IBTrACS records.
+
+- **Three modes explain 90%+ of every storm's life-cycle:** how *strong*, how *early it peaks*, and how *jittery* it is. A typhoon is essentially a 3-D point.
+- **Geography sets the volume, the calendar sets the timing**: storms forming farther east run stronger overall, while season is what shifts when they peak.
+- **The spatial–intensity coupling flips mid-life:** moving north *fuels* a young storm but *kills* an old one. Moving east almost always weakens it. The effect literally traces a loop in coefficient space over the storm's lifetime.
+- **Why it may catch your eye:**
+  - A clean real-world showcase of FPCA, function-on-scalar, and concurrent (varying-coefficient) regression, with elastic-depth outlier screening.
+  - KL expansion + time-local system ID applied to noisy geophysical trajectories.
+
+- [PDF](sta250.pdf)
+- [GitHub](https://github.com/rttliu/STA250-ProjectFDA)
+
+---
+
+# Model Comparisons of Interpolation Under Irregular AR(1) Time Series
+
+When time-series data arrives at uneven intervals — diary studies, EMA, sensor dropouts — every downstream model silently assumes you've fixed it first. But *how* you interpolate quietly changes what the data are allowed to say. This project benchmarks six interpolation methods on irregularly sampled AR(1) processes across 50 trajectories per condition.
+
+- **No universal winner:** GRU leads in hard regimes (high noise, heavy missingness, nonstationarity) but at ~50× the compute; smoothing splines deliver near-best accuracy almost free.
+- **Method ↔ regime matters:** Kalman shines when dependence is strong ($\phi=0.8$); local polynomials win when it's weak; Gaussian processes balance accuracy and flexibility under severe missingness.
+- **Nonstationarity breaks intuition:** GP and GRU collapse on seasonal and level-shift data, while splines and Kalman handle them cleanly — flexibility ≠ robustness.
+- **Interpolation isn't neutral:** the choice biases downstream AR(1) estimates, so reconstruction error and parameter recovery must be judged jointly.
+
+---
+
+### Bayesian Inference for Midge Wing-Length Data: Fixed vs. Hierarchical Variance Priors
+
+What happens when a Bayesian model is allowed to question its own prior assumptions? Using just **9 wing-length measurements** of midges, this project compares a fixed-variance prior with a hierarchical alternative and shows how prior design can meaningfully alter posterior behavior, geometry, and MCMC performance.
+
+- **Location is stable, scale is not:** across 9 hyperprior settings, the posterior mean of $\theta$ changes little, while $\sigma^2$ is highly sensitive.
+- **Hierarchy changes posterior geometry:** introducing a prior on $\sigma_0^2$ creates stronger dependence among variance components, producing ridge-like posteriors that are harder for Gibbs samplers to explore.
+- **Best fit requires balance:** the strongest WAIC result comes from a model with flexible shape ($a=0.1$) but strong scale regularization ($\beta \sim \Gamma(10,1000)$).
+* **Predictive gains come at a cost:** the hierarchical model improves predictive fit and sharpens inference on $\theta$, but mixing for $\sigma^2$ becomes noticeably worse.
 
 - [PDF](finalproj145.pdf)
 - [GitHub](https://github.com/rttliu/STA145-BayesianProject)
+
+---
+
+
