@@ -2,18 +2,17 @@
 title: "Ruitian Liu"
 ---
 
-I am a graduate student in the Department of Statistics at the University of California, Davis, where I began my M.S. in Statistics in 2025. Prior to that, I earned my B.S. in Statistics from North China Institute of Science and Technology between 2021-2025. 
+I am a graduate student in the Department of Statistics at the University of California, Davis, where I began my M.S. in Statistics in 2025. 
 
 ## Academic interests 
-- Model selection (sensitivity analysis, misspecified model, sampling)
-- Functional/longitudinal data analysis (FPCA, functional regression, design of experiments)
-- Bayesian inference (high dimensional problem, prior selection)
-- Applications to scientific and real world problem (natural disaster, social science)
+Using statistical methods solving statistical signal processing (ML methods, image/audio signal, functional/longitudinal data analysis), model selection (sensitivity analysis, misspecified model, sampling), and applications in real world problem. In particular, my passion in music and film film drives me a lot to delve into some signal processing related problems.
 
-## Current Work
-- Functional data analysis of typhoon intensity & tracks in western north pacific
+I enjoy understanding the intuition behind the models that I have study, and I also like explaining these ideas to non-statisticians. I would like to further strengthen my theoretical foundation (especially in advanced analysis, optimization, measure theory, and math stat) in order to gain a deeper and more rigorous understanding of these methods.
+
+## Current Works (In Progress)
+- Selection bias in ML training (Fake music detection)
 - Analysis and imputation of missing data under AR(1) setting
-- Prior selection for bayesian regression
+- Survey in computational statistics
 
 ## Quick Links
 - [Completed courses in undergraduates](undergraduate.qmd)
