@@ -35,7 +35,7 @@ format:
 
 ---
 
-### Spring 2026 (Registered)
+### Spring 2026
 
 - **STA 200C — Introduction to Mathematical Statistics II**  (Required, Master level) <br>
   Testing theory, tools and applications from probability theory, Linear model theory, ANOVA, goodness-of-fit.
@@ -46,14 +46,11 @@ format:
 - **STA 243 — Computational Statistics** (Ph.D level) <br>
   Numerical analysis; random number generation; computer experiments and resampling techniques (bootstrap, cross validation); numerical optimization; matrix decompositions and linear algebra computations; algorithms (markov chain monte carlo, expectation-maximization); algorithm design and efficiency; parallel and distributed computing.
 
-- **STA 299 — Individual Study** (with Jairo Fuquene Patino) <br>
-
+- **ECS 271 — Machine Learning & Discovery** (Ph.D level) <br>
+  Artificial intelligence techniques for knowledge acquisition by computers. Fundamental problems in machine learning and discovery. Systems that learn from examples, analogies, and solved problems. Systems that discover numerical laws and qualitative relationships. Projects centering on implementation and evaluation.
 ---
 
 ### Fall 2026 (Planned)
-
-- **MAT 201A — Analysis I**  (Ph.D level) <br>
-  Metric and normed spaces. Continuous functions. Topological, Hilbert, and Banach spaces.
 
 - **STA 231A — Mathematical Statistics I**  (Ph.D level) <br>
   Basics of Probability Theory, Multivariate normal Basics of Decision Theory (decision space, decision rule, loss, risk) Exponential families; MLE; Sufficiency, Cramer-Rao Inequality Asymptotics with application to MLEs (and generalization to M-estimation) 
@@ -61,12 +58,14 @@ format:
 - **STA 235A — Probability I**  (Ph.D level) <br>
   Probability measures, random variables, expected values, independence; strong and weak laws of large numbers; weak convergence and central limit theorem
 
+- **MAT 258A — Numerical Optimization**  (Ph.D level) <br>
+  Numerical methods for infinite dimensional optimization problems. Newton and Quasi-Newton methods, linear and sequential quadratic programming, barrier methods; large-scale optimization; theory of approximations; infinite and semi-infinite programming; applications to optimal control, stochastic optimization and distributed systems.
+
+- **EEC 260 — Random Signals & Noise**  (Ph.D level) <br>
+  Metric and normed spaces. Continuous functions. Topological, Hilbert, and Banach spaces.
 ---
 
 ### Winter 2027 (Planned)
-
-- **MAT 201B — Analysis II**  (Ph.D level) <br>
-  Fourier series. Spectrum of bounded and compact linear operators. Linear differential operators and Green's functions. Distributions. Fourier transform.
 
 - **STA 231B — Mathematical Statistics II**  (Ph.D level) <br>
   Testing/ Confidence Intervals (including FDR) Quadratic Forms (+ their distribution under normal) Confidence regions. Linear model (basic theory) LS-estimation, ANOVA, F-test Linear mixed model.
@@ -85,8 +84,5 @@ format:
 
 - **STA 231C — Mathematical Statistics III**  (Ph.D level) <br>
   Smoothing (kernel, local polynomial, splines), Statistical functionals (including basic bootstrap and jackknife), Optimization techniques (incl. EM-algorithm)
-
-- **STA 232C — Applied Statistics III**  (Ph.D level) <br>
-  Multivariate analysis: multivariate distributions, multivariate linear models, data analytic methods including principal component, factor, discriminant, canonical correlation and cluster analysis.
 
 ---
