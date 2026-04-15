@@ -37,8 +37,8 @@ What if one of the most famous "randomized" education experiments, Tennessee's *
 - **Re-anchors the estimand:** uses *kindergarten initial assignment* (ITT) instead of contaminated later-year class type — the only credible randomization point.
 - **Partly rewrites the story:** small-class assignment causes a **+7.5 point** math gain in kindergarten, but the grade interaction is **not statistically distinguishable from zero**. The effect is **front-loaded and persistent, not cumulative**. Thus we give budget-constrained districts a concrete signal: *invest early, not throughout K–3*.
 
-- [HTML]
-- [GitHub]
+- [HTML](Final Report.html)
+- [GitHub](https://github.com/rttliu/STA207-ProjectSTAR)
 
 ---
 
