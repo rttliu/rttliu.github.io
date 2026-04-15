@@ -16,7 +16,7 @@ What if every typhoon's life — birth, peak, collapse — could be written as a
 
 ---
 
-# Model Comparisons of Interpolation Under Irregular AR(1) Time Series
+### Model Comparisons of Interpolation Under Irregular AR(1) Time Series
 
 When time-series data arrives at uneven intervals — diary studies, EMA, sensor dropouts — every downstream model silently assumes you've fixed it first. But *how* you interpolate quietly changes what the data are allowed to say. This project benchmarks six interpolation methods on irregularly sampled AR(1) processes across 50 trajectories per condition.
 
@@ -24,6 +24,8 @@ When time-series data arrives at uneven intervals — diary studies, EMA, sensor
 - **Method ↔ regime matters:** Kalman shines when dependence is strong ($\phi=0.8$); local polynomials win when it's weak; Gaussian processes balance accuracy and flexibility under severe missingness.
 - **Nonstationarity breaks intuition:** GP and GRU collapse on seasonal and level-shift data, while splines and Kalman handle them cleanly — flexibility ≠ robustness.
 - **Interpolation isn't neutral:** the choice biases downstream AR(1) estimates, so reconstruction error and parameter recovery must be judged jointly.
+
+- [PDF](hde.pdf)
 
 ---
 
