@@ -28,7 +28,7 @@ When time-series data arrives at uneven intervals — diary studies, EMA, sensor
 - [PDF](hde.pdf)
 
 ---
-# Do Small Classes Really Help? A Causal Re-Analysis of Project STAR
+### Do Small Classes Really Help? A Causal Re-Analysis of Project STAR
 
 What if one of the most famous "randomized" education experiments, Tennessee's **Project STAR** (11,601 students, K–3), wasn't really randomized by the time the data was analyzed? Differential attrition and class-switching quietly broke the original design. This project rebuilds the causal story with a defensible pipeline.
 
@@ -49,7 +49,7 @@ What happens when a Bayesian model is allowed to question its own prior assumpti
 - **Location is stable, scale is not:** across 9 hyperprior settings, the posterior mean of $\theta$ changes little, while $\sigma^2$ is highly sensitive.
 - **Hierarchy changes posterior geometry:** introducing a prior on $\sigma_0^2$ creates stronger dependence among variance components, producing ridge-like posteriors that are harder for Gibbs samplers to explore.
 - **Best fit requires balance:** the strongest WAIC result comes from a model with flexible shape ($a=0.1$) but strong scale regularization ($\beta \sim \Gamma(10,1000)$).
-* **Predictive gains come at a cost:** the hierarchical model improves predictive fit and sharpens inference on $\theta$, but mixing for $\sigma^2$ becomes noticeably worse.
+- **Predictive gains come at a cost:** the hierarchical model improves predictive fit and sharpens inference on $\theta$, but mixing for $\sigma^2$ becomes noticeably worse.
 
 - [PDF](finalproj145.pdf)
 - [GitHub](https://github.com/rttliu/STA145-BayesianProject)
