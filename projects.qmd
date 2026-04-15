@@ -28,6 +28,19 @@ When time-series data arrives at uneven intervals — diary studies, EMA, sensor
 - [PDF](hde.pdf)
 
 ---
+# Do Small Classes Really Help? A Causal Re-Analysis of Project STAR
+
+What if one of the most famous "randomized" education experiments, Tennessee's **Project STAR** (11,601 students, K–3), wasn't really randomized by the time the data was analyzed? Differential attrition and class-switching quietly broke the original design. This project rebuilds the causal story with a defensible pipeline.
+
+- **Names a flaw most STAR studies ignored:** attrition isn't random — weaker students drop out more, and dropout differs between small (10.4%) and regular (14.3%) classes. Direct regression yields systematic selection bias.
+- **A three-stage pipeline:** MICE → Doubly Robust (AIPW) → multilevel mixed model. MICE imputes only covariates so outcome missingness stays explicit;AIPW handles selective outcome observation so selection bias is addressed explicitly; school + student random intercepts respect STAR's within-school blocked design.
+- **Re-anchors the estimand:** uses *kindergarten initial assignment* (ITT) instead of contaminated later-year class type — the only credible randomization point.
+- **Partly rewrites the story:** small-class assignment causes a **+7.5 point** math gain in kindergarten, but the grade interaction is **not statistically distinguishable from zero**. The effect is **front-loaded and persistent, not cumulative**. Thus we give budget-constrained districts a concrete signal: *invest early, not throughout K–3*.
+
+- [HTML]
+- [GitHub]
+
+---
 
 ### Bayesian Inference for Midge Wing-Length Data: Fixed vs. Hierarchical Variance Priors
 
