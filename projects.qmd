@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-## Projects
-
 ### Functional Representation and Regression of Typhoon Evolution (W. North Pacific)
 
 What if every typhoon's life — birth, peak, collapse — could be written as a single curve, and the whole zoo of 1,101 storms compressed into just **three numbers each**? We use functional data analysis on NOAA IBTrACS records.
