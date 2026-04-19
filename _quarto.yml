@@ -19,7 +19,7 @@ website:
       - text: Projects
         href: projects.qmd
       - text: CV
-        href: files/cvrttliu.pdf
+        href: cvrttliu.pdf
     right:
       - icon: github
         href: https://github.com/rttliu
