@@ -8,13 +8,13 @@ format:
 
 ### Fall 2025 (Overall GPA: 3.70)
 
-- **STA 200A — Introduction to Probability** (Required, Master level, Grade: A-) <br>
+- **STA 200A — Introduction to Probability** (Required, Master level) <br>
   Fundamental concepts of probability theory, discrete and continuous random variables, standard distributions, moments and moment-generating functions, laws of large numbers and the central limit theorem.
 
-- **STA 206 — Statistical Research Method I** (Required, Master level, Grade: A-) <br>
+- **STA 206 — Statistical Research Method I** (Required, Master level) <br>
   Simple and multiple linear regression, polynomial regression, diagnostics, model selection, factorial designs and analysis of covariance. 
 
-- **HDE 208 — Analysis of Intensive Longitudinal Data** (Ph.D level, Grade: A-) <br>
+- **HDE 208 — Analysis of Intensive Longitudinal Data** (Ph.D level) <br>
   Manipulation, organization, description, and modeling of intensive longitudinal data (ILD), which are repeated measures collected intensively from individuals within a relatively short period of time. Daily diary data, ecological momentary assessments, neuroimaging data, and physiological recordings.
 
 ---
@@ -62,7 +62,7 @@ format:
   Numerical methods for infinite dimensional optimization problems. Newton and Quasi-Newton methods, linear and sequential quadratic programming, barrier methods; large-scale optimization; theory of approximations; infinite and semi-infinite programming; applications to optimal control, stochastic optimization and distributed systems.
 
 - **EEC 260 — Random Signals & Noise**  (Ph.D level) <br>
-  Metric and normed spaces. Continuous functions. Topological, Hilbert, and Banach spaces.
+  Random processes as probabilistic models for signals and noise. Probability and random variables, Convergence and limit theorems, Specification of random processes, Markov Chains, Wiener process and white Gaussian noise, Poisson process and shot noise, Processing and frequency analysis of random signals.
 ---
 
 ### Winter 2027 (Planned)
@@ -73,7 +73,6 @@ format:
 - **STA 260 — Statistical Practice and Data Analysis**  (Ph.D level) <br>
    Principles and practice of interdisciplinary collaboration in statistics, statistical consulting, ethical aspects, and basics of data analysis and study design. Emphasis on practical consulting and collaboration of statisticians with clients and scientists under instructor supervision.
 
-- **STA 290 — Seminar in Statistics** <br>
 
 ---
 
