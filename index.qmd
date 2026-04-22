@@ -5,7 +5,7 @@ title: "Ruitian Liu"
 I am a graduate student in the Department of Statistics at the University of California, Davis, where I began my M.S. in Statistics in 2025. 
 
 ## Academic interests 
-Using statistical methods solving statistical signal processing (ML methods, image/audio signal, functional/longitudinal data analysis), model selection (sensitivity analysis, misspecified model, sampling), and applications in real world problem. In particular, my passion in music and film film drives me a lot to delve into some signal processing related problems.
+Using statistical methods solving statistical signal processing (ML methods, image/audio signal, functional/longitudinal data analysis), model selection (sensitivity analysis, misspecified model, sampling), and applications in real world problem. In particular, my passion in music and film drives me a lot to delve into some signal processing related problems.
 
 I enjoy understanding the intuition behind the models that I have study, and I also like explaining these ideas to non-statisticians. I would like to further strengthen my theoretical foundation (especially in advanced analysis, optimization, measure theory, math stat and geometry) in order to gain a deeper and more rigorous understanding of these methods.
 
